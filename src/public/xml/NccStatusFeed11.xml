@@ -34,14 +34,14 @@
       </ConcernedLines>
       <ConcernedStops>
         <Stop Name="Heathrow Terminal 4" StopID="1000104" />
-        <Stop Name="Heathrow Terminals 2 &amp; 3" StopID="1000105" />
+        <Stop Name="Heathrow Terminals 2 &amp; 3" StopID="1001147" />
         <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
         <Stop Name="Southall" StopID="1001255" />
         <Stop Name="Hanwell" StopID="1001135" />
         <Stop Name="West Ealing" StopID="1001327" />
         <Stop Name="Ealing Broadway" StopID="1000062" />
         <Stop Name="Acton Main Line" StopID="1001003" />
-        <Stop Name="Paddington" StopID="1000174" />
+        <Stop Name="Paddington" StopID="1001221" />
       </ConcernedStops>
       <GenericParams>
         <ParamList>
