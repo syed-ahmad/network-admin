@@ -1,0 +1,26 @@
+{
+  "name": "network-admin",
+  "version": "1.0.0",
+  "description": "Add / Remove network disruptions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-ahmad/network-admin.git"
+  },
+  "keywords": [
+    "Network",
+    "Rail",
+    "Disruptions",
+    "Status",
+    "Line"
+  ],
+  "author": "Syed Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-ahmad/network-admin/issues"
+  },
+  "homepage": "https://github.com/syed-ahmad/network-admin#readme"
+}
