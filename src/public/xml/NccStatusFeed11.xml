@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SituationExchangeDelivery>
-  <ResponseTimestamp>2020-01-23T15:20:49</ResponseTimestamp>
+  <ResponseTimestamp>2020-01-23T16:08:19</ResponseTimestamp>
   <TfLSevereDisruption>
     <Active>false</Active>
     <Reason>Severe Disruption</Reason>
@@ -11,44 +11,37 @@
   <NightTube>false</NightTube>
   <ItdRequest>
     <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="false">
-      <InfoId>4176560000123200</InfoId>
-      <SeqId>8</SeqId>
-      <CreationTime>2020-01-22T15:43:34</CreationTime>
+      <InfoId>4176590000123203</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T16:04:47</CreationTime>
       <SourceType>web</SourceType>
       <ValidityPeriod>
-        <StartTime>2020-01-22T15:43:34</StartTime>
-        <EndTime>2020-01-24T15:43:34</EndTime>
+        <StartTime>2020-01-23T16:04:47</StartTime>
+        <EndTime>2020-01-23T19:04:47</EndTime>
       </ValidityPeriod>
       <PublicationDuration>
-        <StartTime>2020-01-22T15:43:34</StartTime>
-        <EndTime>2020-01-24T15:43:34</EndTime>
+        <StartTime>2020-01-23T16:04:47</StartTime>
+        <EndTime>2020-01-23T19:04:47</EndTime>
       </PublicationDuration>
       <Progress>open</Progress>
       <Verification>unknown</Verification>
       <EventType>1</EventType>
       <InfoLink>
-        <InfoLinkText>Syed: Part suspended between Reading and Paddington. </InfoLinkText>
+        <InfoLinkText>JE Reading to Paddington </InfoLinkText>
       </InfoLink>
       <ConcernedLines>
         <Line Name="TfL Rail" Direction="" />
       </ConcernedLines>
       <ConcernedStops>
-        <Stop Name="Reading" StopID="1000972" />
-        <Stop Name="Twyford" StopID="1000969" />
-        <Stop Name="Maidenhead" StopID="1000964" />
-        <Stop Name="Taplow" StopID="1000960" />
-        <Stop Name="Burnham" StopID="1000860" />
-        <Stop Name="Slough" StopID="1000951" />
-        <Stop Name="Langley" StopID="1001550" />
-        <Stop Name="Iver" StopID="1000955" />
-        <Stop Name="West Drayton" StopID="1001325" />
+        <Stop Name="Heathrow Terminal 4" StopID="1000104" />
+        <Stop Name="Heathrow Terminals 2 &amp; 3" StopID="1000105" />
         <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
         <Stop Name="Southall" StopID="1001255" />
         <Stop Name="Hanwell" StopID="1001135" />
         <Stop Name="West Ealing" StopID="1001327" />
         <Stop Name="Ealing Broadway" StopID="1000062" />
         <Stop Name="Acton Main Line" StopID="1001003" />
-        <Stop Name="Paddington" StopID="1001221" />
+        <Stop Name="Paddington" StopID="1000174" />
       </ConcernedStops>
       <GenericParams>
         <ParamList>
@@ -91,6 +84,61 @@
         <Stop Name="Romford" StopID="1001243" />
         <Stop Name="Emerson Park" StopID="1001098" />
         <Stop Name="Upminster" StopID="1000242" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4176580000123202</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T15:53:11</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T15:53:11</StartTime>
+        <EndTime>2020-01-23T18:53:11</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T15:53:11</StartTime>
+        <EndTime>2020-01-23T18:53:11</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>JE Reading to Paddington </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Reading" StopID="1000972" />
+        <Stop Name="Twyford" StopID="1000969" />
+        <Stop Name="Maidenhead" StopID="90004788" />
+        <Stop Name="Taplow" StopID="90007118" />
+        <Stop Name="Burnham" StopID="1000860" />
+        <Stop Name="Slough" StopID="1001551" />
+        <Stop Name="Langley" StopID="1001550" />
+        <Stop Name="Iver" StopID="1016047" />
+        <Stop Name="West Drayton" StopID="1001325" />
+        <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
+        <Stop Name="Southall" StopID="1001255" />
+        <Stop Name="Hanwell" StopID="1001135" />
+        <Stop Name="West Ealing" StopID="1001327" />
+        <Stop Name="Ealing Broadway" StopID="1000062" />
+        <Stop Name="Acton Main Line" StopID="1001003" />
+        <Stop Name="Paddington" StopID="1000174" />
       </ConcernedStops>
       <GenericParams>
         <ParamList>
