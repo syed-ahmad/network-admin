@@ -1,0 +1,4600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SituationExchangeDelivery>
+  <ResponseTimestamp>2020-01-23T14:35:25</ResponseTimestamp>
+  <TfLSevereDisruption>
+    <Active>false</Active>
+    <Reason>Severe Disruption</Reason>
+    <InfoLink>
+      <InfoLinkText />
+    </InfoLink>
+  </TfLSevereDisruption>
+  <NightTube>false</NightTube>
+  <ItdRequest>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850890000164733</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:40:19</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:40:19</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:40:19</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="District" Direction="Westbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Tower Hill" StopID="1000238" />
+        <Stop Name="Aldgate East" StopID="1000004" />
+        <Stop Name="Whitechapel" StopID="1000268" />
+        <Stop Name="Stepney Green" StopID="1000220" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Bow Road" StopID="1000029" />
+        <Stop Name="Bromley-by-Bow" StopID="1000032" />
+        <Stop Name="West Ham" StopID="1000262" />
+        <Stop Name="Plaistow" StopID="1000182" />
+        <Stop Name="Upton Park" StopID="1000245" />
+        <Stop Name="East Ham" StopID="1000068" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850910000164734</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:53:05</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:53:05</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:53:05</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="District" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850920000164735</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:53:27</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:53:27</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:53:27</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="District" Direction="Westbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Earl's Court" StopID="1000064" />
+        <Stop Name="Gloucester Road" StopID="1000086" />
+        <Stop Name="South Kensington" StopID="1000212" />
+        <Stop Name="Sloane Square" StopID="1000206" />
+        <Stop Name="Victoria" StopID="1000248" />
+        <Stop Name="St. James's Park" StopID="1000221" />
+        <Stop Name="Westminster" StopID="1000266" />
+        <Stop Name="Embankment" StopID="1000075" />
+        <Stop Name="Temple" StopID="1000231" />
+        <Stop Name="Blackfriars" StopID="1000023" />
+        <Stop Name="Mansion House" StopID="1000143" />
+        <Stop Name="Cannon Street" StopID="1000040" />
+        <Stop Name="Monument" StopID="1000148" />
+        <Stop Name="Tower Hill" StopID="1000238" />
+        <Stop Name="Aldgate East" StopID="1000004" />
+        <Stop Name="Whitechapel" StopID="1000268" />
+        <Stop Name="Stepney Green" StopID="1000220" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Bow Road" StopID="1000029" />
+        <Stop Name="Bromley-by-Bow" StopID="1000032" />
+        <Stop Name="West Ham" StopID="1000262" />
+        <Stop Name="Plaistow" StopID="1000182" />
+        <Stop Name="Upton Park" StopID="1000245" />
+        <Stop Name="East Ham" StopID="1000068" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850930000164736</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:56:09</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:56:09</StartTime>
+        <EndTime>2020-01-22T17:56:09</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:56:09</StartTime>
+        <EndTime>2020-01-22T17:56:09</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Moorgate" StopID="1000149" />
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Aldgate East" StopID="1000004" />
+        <Stop Name="Whitechapel" StopID="1000268" />
+        <Stop Name="Stepney Green" StopID="1000220" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Bow Road" StopID="1000029" />
+        <Stop Name="Bromley-by-Bow" StopID="1000032" />
+        <Stop Name="West Ham" StopID="1000262" />
+        <Stop Name="Plaistow" StopID="1000182" />
+        <Stop Name="Upton Park" StopID="1000245" />
+        <Stop Name="East Ham" StopID="1000068" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850940000164737</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:56:23</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:56:23</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:56:23</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Hammersmith (H&amp;C)" StopID="1000097" />
+        <Stop Name="Goldhawk Road" StopID="1000088" />
+        <Stop Name="Shepherds Bush Market" StopID="1000204" />
+        <Stop Name="Wood Lane" StopID="1000278" />
+        <Stop Name="Latimer Road" StopID="1000134" />
+        <Stop Name="Ladbroke Grove" StopID="1000131" />
+        <Stop Name="Westbourne Park" StopID="1000259" />
+        <Stop Name="Royal Oak" StopID="1000196" />
+        <Stop Name="Paddington (H&amp;C)" StopID="1000175" />
+        <Stop Name="Edgware Road (Cir)" StopID="1000072" />
+        <Stop Name="Baker Street" StopID="1000011" />
+        <Stop Name="Great Portland Street" StopID="1000091" />
+        <Stop Name="Euston Square" StopID="1000078" />
+        <Stop Name="King's Cross St. Pancras" StopID="1000129" />
+        <Stop Name="Farringdon" StopID="1000080" />
+        <Stop Name="Barbican" StopID="1000014" />
+        <Stop Name="Moorgate" StopID="1000149" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850950000164738</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:57:48</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:57:48</StartTime>
+        <EndTime>2020-01-22T17:57:48</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:57:48</StartTime>
+        <EndTime>2020-01-22T17:57:48</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Moorgate" StopID="1000149" />
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Aldgate East" StopID="1000004" />
+        <Stop Name="Whitechapel" StopID="1000268" />
+        <Stop Name="Stepney Green" StopID="1000220" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Bow Road" StopID="1000029" />
+        <Stop Name="Bromley-by-Bow" StopID="1000032" />
+        <Stop Name="West Ham" StopID="1000262" />
+        <Stop Name="Plaistow" StopID="1000182" />
+        <Stop Name="Upton Park" StopID="1000245" />
+        <Stop Name="East Ham" StopID="1000068" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850960000164739</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:57:48</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:57:48</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:57:48</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Hammersmith (H&amp;C)" StopID="1000097" />
+        <Stop Name="Goldhawk Road" StopID="1000088" />
+        <Stop Name="Shepherds Bush Market" StopID="1000204" />
+        <Stop Name="Wood Lane" StopID="1000278" />
+        <Stop Name="Latimer Road" StopID="1000134" />
+        <Stop Name="Ladbroke Grove" StopID="1000131" />
+        <Stop Name="Westbourne Park" StopID="1000259" />
+        <Stop Name="Royal Oak" StopID="1000196" />
+        <Stop Name="Paddington (H&amp;C)" StopID="1000175" />
+        <Stop Name="Edgware Road (Cir)" StopID="1000072" />
+        <Stop Name="Baker Street" StopID="1000011" />
+        <Stop Name="Great Portland Street" StopID="1000091" />
+        <Stop Name="Euston Square" StopID="1000078" />
+        <Stop Name="King's Cross St. Pancras" StopID="1000129" />
+        <Stop Name="Farringdon" StopID="1000080" />
+        <Stop Name="Barbican" StopID="1000014" />
+        <Stop Name="Moorgate" StopID="1000149" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850970000164740</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T15:02:34</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T15:02:34</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T15:02:34</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851010000164741</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T15:52:16</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T15:52:16</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T15:52:16</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Aldgate East" StopID="1000004" />
+        <Stop Name="Whitechapel" StopID="1000268" />
+        <Stop Name="Stepney Green" StopID="1000220" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Bow Road" StopID="1000029" />
+        <Stop Name="Bromley-by-Bow" StopID="1000032" />
+        <Stop Name="West Ham" StopID="1000262" />
+        <Stop Name="Plaistow" StopID="1000182" />
+        <Stop Name="Upton Park" StopID="1000245" />
+        <Stop Name="East Ham" StopID="1000068" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851020000164742</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T15:52:27</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T15:52:27</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T15:52:27</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Hammersmith (H&amp;C)" StopID="1000097" />
+        <Stop Name="Goldhawk Road" StopID="1000088" />
+        <Stop Name="Shepherds Bush Market" StopID="1000204" />
+        <Stop Name="Wood Lane" StopID="1000278" />
+        <Stop Name="Latimer Road" StopID="1000134" />
+        <Stop Name="Ladbroke Grove" StopID="1000131" />
+        <Stop Name="Westbourne Park" StopID="1000259" />
+        <Stop Name="Royal Oak" StopID="1000196" />
+        <Stop Name="Paddington (H&amp;C)" StopID="1000175" />
+        <Stop Name="Edgware Road (Cir)" StopID="1000072" />
+        <Stop Name="Baker Street" StopID="1000011" />
+        <Stop Name="Great Portland Street" StopID="1000091" />
+        <Stop Name="Euston Square" StopID="1000078" />
+        <Stop Name="King's Cross St. Pancras" StopID="1000129" />
+        <Stop Name="Farringdon" StopID="1000080" />
+        <Stop Name="Barbican" StopID="1000014" />
+        <Stop Name="Moorgate" StopID="1000149" />
+        <Stop Name="Liverpool Street" StopID="1000138" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851040000164743</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T16:07:24</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T16:07:24</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T16:07:24</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Aldgate East" StopID="1000004" />
+        <Stop Name="Whitechapel" StopID="1000268" />
+        <Stop Name="Stepney Green" StopID="1000220" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Bow Road" StopID="1000029" />
+        <Stop Name="Bromley-by-Bow" StopID="1000032" />
+        <Stop Name="West Ham" StopID="1000262" />
+        <Stop Name="Plaistow" StopID="1000182" />
+        <Stop Name="Upton Park" StopID="1000245" />
+        <Stop Name="East Ham" StopID="1000068" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851050000164744</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T16:07:25</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T16:07:25</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T16:07:25</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Hammersmith (H&amp;C)" StopID="1000097" />
+        <Stop Name="Goldhawk Road" StopID="1000088" />
+        <Stop Name="Shepherds Bush Market" StopID="1000204" />
+        <Stop Name="Wood Lane" StopID="1000278" />
+        <Stop Name="Latimer Road" StopID="1000134" />
+        <Stop Name="Ladbroke Grove" StopID="1000131" />
+        <Stop Name="Westbourne Park" StopID="1000259" />
+        <Stop Name="Royal Oak" StopID="1000196" />
+        <Stop Name="Paddington (H&amp;C)" StopID="1000175" />
+        <Stop Name="Edgware Road (Cir)" StopID="1000072" />
+        <Stop Name="Baker Street" StopID="1000011" />
+        <Stop Name="Great Portland Street" StopID="1000091" />
+        <Stop Name="Euston Square" StopID="1000078" />
+        <Stop Name="King's Cross St. Pancras" StopID="1000129" />
+        <Stop Name="Farringdon" StopID="1000080" />
+        <Stop Name="Barbican" StopID="1000014" />
+        <Stop Name="Moorgate" StopID="1000149" />
+        <Stop Name="Liverpool Street" StopID="1000138" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851060000164745</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T16:19:24</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T16:19:24</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T16:19:24</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851070000164746</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T16:34:29</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T16:34:29</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T16:34:29</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="North London Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Willesden Junction" StopID="1000271" />
+        <Stop Name="Kensal Rise" StopID="1001161" />
+        <Stop Name="Brondesbury Park" StopID="1001039" />
+        <Stop Name="Brondesbury" StopID="1001038" />
+        <Stop Name="West Hampstead" StopID="1000263" />
+        <Stop Name="Finchley Road &amp; Frognal" StopID="1001109" />
+        <Stop Name="Hampstead Heath" StopID="1001131" />
+        <Stop Name="Gospel Oak" StopID="1001119" />
+        <Stop Name="Kentish Town West" StopID="1001165" />
+        <Stop Name="Camden Road" StopID="1001045" />
+        <Stop Name="Caledonian Road &amp; Barnsbury" StopID="1001043" />
+        <Stop Name="Highbury &amp; Islington" StopID="1000108" />
+        <Stop Name="Canonbury" StopID="1001048" />
+        <Stop Name="Dalston Kingsland" StopID="1001081" />
+        <Stop Name="Hackney Central" StopID="1001127" />
+        <Stop Name="Homerton" StopID="1001153" />
+        <Stop Name="Hackney Wick" StopID="1001129" />
+        <Stop Name="Stratford" StopID="1000226" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851110000164747</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T19:30:48</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T19:30:48</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T19:30:48</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="DLR" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Stratford" StopID="1000226" />
+        <Stop Name="Pudding Mill Lane" StopID="1002066" />
+        <Stop Name="Bow Church" StopID="1002019" />
+        <Stop Name="Devons Road" StopID="1002030" />
+        <Stop Name="Langdon Park" StopID="1002034" />
+        <Stop Name="All Saints" StopID="1002003" />
+        <Stop Name="Poplar" StopID="1002064" />
+        <Stop Name="West India Quay" StopID="1002084" />
+        <Stop Name="Canary Wharf" StopID="1003008" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851120000164748</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T20:03:00</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T20:03:00</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T20:03:00</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Reading" StopID="1000972" />
+        <Stop Name="Twyford" StopID="1000969" />
+        <Stop Name="Maidenhead" StopID="90004788" />
+        <Stop Name="Taplow" StopID="90007118" />
+        <Stop Name="Burnham" StopID="1000860" />
+        <Stop Name="Slough" StopID="1001551" />
+        <Stop Name="Langley" StopID="1001550" />
+        <Stop Name="Iver" StopID="1016047" />
+        <Stop Name="West Drayton" StopID="1001325" />
+        <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
+        <Stop Name="Southall" StopID="1001255" />
+        <Stop Name="Hanwell" StopID="1001135" />
+        <Stop Name="West Ealing" StopID="1001327" />
+        <Stop Name="Ealing Broadway" StopID="1000062" />
+        <Stop Name="Acton Main Line" StopID="1001003" />
+        <Stop Name="Paddington" StopID="1000174" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851130000164749</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T20:03:00</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T20:03:00</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T20:03:00</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Heathrow Terminal 5" StopID="1016430" />
+        <Stop Name="Heathrow Terminals 2 &amp; 3" StopID="1000105" />
+        <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
+        <Stop Name="Southall" StopID="1001255" />
+        <Stop Name="Hanwell" StopID="1001135" />
+        <Stop Name="West Ealing" StopID="1001327" />
+        <Stop Name="Ealing Broadway" StopID="1000062" />
+        <Stop Name="Acton Main Line" StopID="1001003" />
+        <Stop Name="Paddington" StopID="1000174" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851140000164750</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T20:03:00</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T20:03:00</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T20:03:00</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Heathrow Terminal 4" StopID="1000104" />
+        <Stop Name="Heathrow Terminals 2 &amp; 3" StopID="1000105" />
+        <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
+        <Stop Name="Southall" StopID="1001255" />
+        <Stop Name="Hanwell" StopID="1001135" />
+        <Stop Name="West Ealing" StopID="1001327" />
+        <Stop Name="Ealing Broadway" StopID="1000062" />
+        <Stop Name="Acton Main Line" StopID="1001003" />
+        <Stop Name="Paddington" StopID="1000174" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851150000164751</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T20:04:17</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T20:04:17</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T20:04:17</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Reading" StopID="1000972" />
+        <Stop Name="Twyford" StopID="1000969" />
+        <Stop Name="Maidenhead" StopID="90004788" />
+        <Stop Name="Taplow" StopID="90007118" />
+        <Stop Name="Burnham" StopID="1000860" />
+        <Stop Name="Slough" StopID="1001551" />
+        <Stop Name="Langley" StopID="1001550" />
+        <Stop Name="Iver" StopID="1016047" />
+        <Stop Name="West Drayton" StopID="1001325" />
+        <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
+        <Stop Name="Southall" StopID="1001255" />
+        <Stop Name="Hanwell" StopID="1001135" />
+        <Stop Name="West Ealing" StopID="1001327" />
+        <Stop Name="Ealing Broadway" StopID="1000062" />
+        <Stop Name="Acton Main Line" StopID="1001003" />
+        <Stop Name="Paddington" StopID="1000174" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851160000164752</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T20:04:17</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T20:04:17</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T20:04:17</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Heathrow Terminal 5" StopID="1016430" />
+        <Stop Name="Heathrow Terminals 2 &amp; 3" StopID="1000105" />
+        <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
+        <Stop Name="Southall" StopID="1001255" />
+        <Stop Name="Hanwell" StopID="1001135" />
+        <Stop Name="West Ealing" StopID="1001327" />
+        <Stop Name="Ealing Broadway" StopID="1000062" />
+        <Stop Name="Acton Main Line" StopID="1001003" />
+        <Stop Name="Paddington" StopID="1000174" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851170000164753</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T20:04:17</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T20:04:17</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T20:04:17</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Heathrow Terminal 4" StopID="1000104" />
+        <Stop Name="Heathrow Terminals 2 &amp; 3" StopID="1000105" />
+        <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
+        <Stop Name="Southall" StopID="1001255" />
+        <Stop Name="Hanwell" StopID="1001135" />
+        <Stop Name="West Ealing" StopID="1001327" />
+        <Stop Name="Ealing Broadway" StopID="1000062" />
+        <Stop Name="Acton Main Line" StopID="1001003" />
+        <Stop Name="Paddington" StopID="1000174" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851320000164754</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T00:30:40</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T00:30:40</StartTime>
+        <EndTime>2020-01-23T06:30:40</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T00:30:40</StartTime>
+        <EndTime>2020-01-23T06:30:40</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume 06:00. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Waterloo and City" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851330000164755</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:30:45</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:30:45</StartTime>
+        <EndTime>2020-01-23T07:30:45</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:30:45</StartTime>
+        <EndTime>2020-01-23T07:30:45</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Bakerloo" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851340000164756</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:30:52</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:30:52</StartTime>
+        <EndTime>2020-01-23T07:30:52</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:30:52</StartTime>
+        <EndTime>2020-01-23T07:30:52</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851350000164757</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:30:59</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:30:59</StartTime>
+        <EndTime>2020-01-23T07:30:59</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:30:59</StartTime>
+        <EndTime>2020-01-23T07:30:59</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Circle" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851360000164758</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:31:07</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:31:07</StartTime>
+        <EndTime>2020-01-23T07:31:07</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:31:07</StartTime>
+        <EndTime>2020-01-23T07:31:07</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="District" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851370000164759</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:31:13</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:31:13</StartTime>
+        <EndTime>2020-01-23T07:31:13</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:31:13</StartTime>
+        <EndTime>2020-01-23T07:31:13</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="DLR" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851380000164760</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:31:26</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:31:26</StartTime>
+        <EndTime>2020-01-23T07:31:26</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:31:26</StartTime>
+        <EndTime>2020-01-23T07:31:26</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851390000164761</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:31:33</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:31:33</StartTime>
+        <EndTime>2020-01-23T07:31:33</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:31:33</StartTime>
+        <EndTime>2020-01-23T07:31:33</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Jubilee" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851400000164762</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:31:40</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:31:40</StartTime>
+        <EndTime>2020-01-23T07:31:40</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:31:40</StartTime>
+        <EndTime>2020-01-23T07:31:40</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Metropolitan" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851410000164763</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:31:48</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:31:48</StartTime>
+        <EndTime>2020-01-23T07:31:48</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:31:48</StartTime>
+        <EndTime>2020-01-23T07:31:48</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Northern" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851420000164764</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:31:56</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:31:56</StartTime>
+        <EndTime>2020-01-23T07:31:56</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:31:56</StartTime>
+        <EndTime>2020-01-23T07:31:56</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851430000164765</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T01:32:00</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:32:00</StartTime>
+        <EndTime>2020-01-23T04:32:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:32:00</StartTime>
+        <EndTime>2020-01-23T04:32:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="DC Line" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851440000164766</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T01:32:05</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:32:05</StartTime>
+        <EndTime>2020-01-23T07:32:05</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:32:05</StartTime>
+        <EndTime>2020-01-23T07:32:05</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Romford line" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851450000164767</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T01:36:19</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:36:19</StartTime>
+        <EndTime>2020-01-23T04:36:19</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:36:19</StartTime>
+        <EndTime>2020-01-23T04:36:19</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="North London Line" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851460000164768</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T01:36:23</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:36:23</StartTime>
+        <EndTime>2020-01-23T04:36:23</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:36:23</StartTime>
+        <EndTime>2020-01-23T04:36:23</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="West Anglia Line" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851470000164769</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T01:36:36</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:36:36</StartTime>
+        <EndTime>2020-01-23T04:36:36</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:36:36</StartTime>
+        <EndTime>2020-01-23T04:36:36</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Piccadilly" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851480000164770</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T01:36:42</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:36:42</StartTime>
+        <EndTime>2020-01-23T04:36:42</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:36:42</StartTime>
+        <EndTime>2020-01-23T04:36:42</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Train service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="TfL Rail" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851490000164771</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T01:36:56</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:36:56</StartTime>
+        <EndTime>2020-01-23T04:36:56</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:36:56</StartTime>
+        <EndTime>2020-01-23T04:36:56</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Tram service will resume later this morning. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Trams" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTram</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851500000164772</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T01:37:03</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T01:37:03</StartTime>
+        <EndTime>2020-01-23T04:37:03</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T01:37:03</StartTime>
+        <EndTime>2020-01-23T04:37:03</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Victoria" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Service Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851670000164773</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T06:07:21</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:07:21</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:07:21</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Hammersmith and City" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Hammersmith (H&amp;C)" StopID="1000097" />
+        <Stop Name="Goldhawk Road" StopID="1000088" />
+        <Stop Name="Shepherds Bush Market" StopID="1000204" />
+        <Stop Name="Wood Lane" StopID="1000278" />
+        <Stop Name="Latimer Road" StopID="1000134" />
+        <Stop Name="Ladbroke Grove" StopID="1000131" />
+        <Stop Name="Westbourne Park" StopID="1000259" />
+        <Stop Name="Royal Oak" StopID="1000196" />
+        <Stop Name="Paddington (H&amp;C)" StopID="1000175" />
+        <Stop Name="Edgware Road (Cir)" StopID="1000072" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851680000164774</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T06:07:32</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:07:32</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:07:32</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Minor delays between Edgware Road and Hammersmith while we fix a faulty train at Paddington. GOOD SERVICE on the rest of the line. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Circle" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Edgware Road (Cir)" StopID="1000072" />
+        <Stop Name="Paddington (H&amp;C)" StopID="1000175" />
+        <Stop Name="Royal Oak" StopID="1000196" />
+        <Stop Name="Westbourne Park" StopID="1000259" />
+        <Stop Name="Ladbroke Grove" StopID="1000131" />
+        <Stop Name="Latimer Road" StopID="1000134" />
+        <Stop Name="Wood Lane" StopID="1000278" />
+        <Stop Name="Shepherds Bush Market" StopID="1000204" />
+        <Stop Name="Goldhawk Road" StopID="1000088" />
+        <Stop Name="Hammersmith (H&amp;C)" StopID="1000097" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851690000164775</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T06:31:56</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:31:56</StartTime>
+        <EndTime>2020-01-23T09:31:56</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:31:56</StartTime>
+        <EndTime>2020-01-23T09:31:56</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="South Tottenham" StopID="1001264" />
+        <Stop Name="Blackhorse Road" StopID="1000024" />
+        <Stop Name="Walthamstow Queen's Road" StopID="1001308" />
+        <Stop Name="Leyton Midland Road" StopID="1001178" />
+        <Stop Name="Leytonstone High Road" StopID="1001179" />
+        <Stop Name="Wanstead Park" StopID="1001312" />
+        <Stop Name="Woodgrange Park" StopID="1001341" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851700000164776</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T06:31:56</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:31:56</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:31:56</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Gospel Oak" StopID="1001119" />
+        <Stop Name="Upper Holloway" StopID="1001302" />
+        <Stop Name="Crouch Hill" StopID="1001077" />
+        <Stop Name="Harringay Green Lanes" StopID="1001139" />
+        <Stop Name="South Tottenham" StopID="1001264" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851710000164777</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T06:32:32</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:32:32</StartTime>
+        <EndTime>2020-01-23T09:32:32</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:32:32</StartTime>
+        <EndTime>2020-01-23T09:32:32</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="South Tottenham" StopID="1001264" />
+        <Stop Name="Blackhorse Road" StopID="1000024" />
+        <Stop Name="Walthamstow Queen's Road" StopID="1001308" />
+        <Stop Name="Leyton Midland Road" StopID="1001178" />
+        <Stop Name="Leytonstone High Road" StopID="1001179" />
+        <Stop Name="Wanstead Park" StopID="1001312" />
+        <Stop Name="Woodgrange Park" StopID="1001341" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851720000164778</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T06:32:32</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:32:32</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:32:32</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Gospel Oak" StopID="1001119" />
+        <Stop Name="Upper Holloway" StopID="1001302" />
+        <Stop Name="Crouch Hill" StopID="1001077" />
+        <Stop Name="Harringay Green Lanes" StopID="1001139" />
+        <Stop Name="South Tottenham" StopID="1001264" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851770000164779</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T08:10:54</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T08:10:54</StartTime>
+        <EndTime>2020-01-23T11:10:54</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T08:10:54</StartTime>
+        <EndTime>2020-01-23T11:10:54</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="South Tottenham" StopID="1001264" />
+        <Stop Name="Blackhorse Road" StopID="1000024" />
+        <Stop Name="Walthamstow Queen's Road" StopID="1001308" />
+        <Stop Name="Leyton Midland Road" StopID="1001178" />
+        <Stop Name="Leytonstone High Road" StopID="1001179" />
+        <Stop Name="Wanstead Park" StopID="1001312" />
+        <Stop Name="Woodgrange Park" StopID="1001341" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851780000164780</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T08:10:54</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T08:10:54</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T08:10:54</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Gospel Oak" StopID="1001119" />
+        <Stop Name="Upper Holloway" StopID="1001302" />
+        <Stop Name="Crouch Hill" StopID="1001077" />
+        <Stop Name="Harringay Green Lanes" StopID="1001139" />
+        <Stop Name="South Tottenham" StopID="1001264" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851790000164781</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-23T08:12:19</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T08:12:19</StartTime>
+        <EndTime>2020-01-23T14:12:19</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T08:12:19</StartTime>
+        <EndTime>2020-01-23T14:12:19</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="South Tottenham" StopID="1001264" />
+        <Stop Name="Blackhorse Road" StopID="1000024" />
+        <Stop Name="Walthamstow Queen's Road" StopID="1001308" />
+        <Stop Name="Leyton Midland Road" StopID="1001178" />
+        <Stop Name="Leytonstone High Road" StopID="1001179" />
+        <Stop Name="Wanstead Park" StopID="1001312" />
+        <Stop Name="Woodgrange Park" StopID="1001341" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851800000164782</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T08:12:19</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T08:12:19</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T08:12:19</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Gospel Oak" StopID="1001119" />
+        <Stop Name="Upper Holloway" StopID="1001302" />
+        <Stop Name="Crouch Hill" StopID="1001077" />
+        <Stop Name="Harringay Green Lanes" StopID="1001139" />
+        <Stop Name="South Tottenham" StopID="1001264" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851850000164783</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T09:57:44</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T09:57:44</StartTime>
+        <EndTime>2020-01-23T12:57:44</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T09:57:44</StartTime>
+        <EndTime>2020-01-23T12:57:44</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Snaresbrook" StopID="1000207" />
+        <Stop Name="South Woodford" StopID="1000217" />
+        <Stop Name="Woodford" StopID="1000274" />
+        <Stop Name="Buckhurst Hill" StopID="1000033" />
+        <Stop Name="Loughton" StopID="1000140" />
+        <Stop Name="Debden" StopID="1000060" />
+        <Stop Name="Theydon Bois" StopID="1000232" />
+        <Stop Name="Epping" StopID="1000076" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851860000164784</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T09:57:56</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T09:57:56</StartTime>
+        <EndTime>2020-01-23T12:57:56</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T09:57:56</StartTime>
+        <EndTime>2020-01-23T12:57:56</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Wanstead" StopID="1000250" />
+        <Stop Name="Redbridge" StopID="1000190" />
+        <Stop Name="Gants Hill" StopID="1000085" />
+        <Stop Name="Newbury Park" StopID="1000154" />
+        <Stop Name="Barkingside" StopID="1000016" />
+        <Stop Name="Fairlop" StopID="1000079" />
+        <Stop Name="Hainault" StopID="1000095" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851870000164785</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T09:58:26</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T09:58:26</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T09:58:26</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Bethnal Green" StopID="1000022" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Stratford" StopID="1000226" />
+        <Stop Name="Leyton" StopID="1000136" />
+        <Stop Name="Leytonstone" StopID="1000137" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851880000164786</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T09:59:45</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T09:59:45</StartTime>
+        <EndTime>2020-01-23T12:59:45</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T09:59:45</StartTime>
+        <EndTime>2020-01-23T12:59:45</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Snaresbrook" StopID="1000207" />
+        <Stop Name="South Woodford" StopID="1000217" />
+        <Stop Name="Woodford" StopID="1000274" />
+        <Stop Name="Buckhurst Hill" StopID="1000033" />
+        <Stop Name="Loughton" StopID="1000140" />
+        <Stop Name="Debden" StopID="1000060" />
+        <Stop Name="Theydon Bois" StopID="1000232" />
+        <Stop Name="Epping" StopID="1000076" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851890000164787</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T09:59:45</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T09:59:45</StartTime>
+        <EndTime>2020-01-23T12:59:45</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T09:59:45</StartTime>
+        <EndTime>2020-01-23T12:59:45</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Wanstead" StopID="1000250" />
+        <Stop Name="Redbridge" StopID="1000190" />
+        <Stop Name="Gants Hill" StopID="1000085" />
+        <Stop Name="Newbury Park" StopID="1000154" />
+        <Stop Name="Barkingside" StopID="1000016" />
+        <Stop Name="Fairlop" StopID="1000079" />
+        <Stop Name="Hainault" StopID="1000095" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851900000164788</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:00:07</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:00:07</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:00:07</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Bethnal Green" StopID="1000022" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Stratford" StopID="1000226" />
+        <Stop Name="Leyton" StopID="1000136" />
+        <Stop Name="Leytonstone" StopID="1000137" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851910000164789</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:00:07</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:00:07</StartTime>
+        <EndTime>2020-01-23T13:00:07</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:00:07</StartTime>
+        <EndTime>2020-01-23T13:00:07</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Snaresbrook" StopID="1000207" />
+        <Stop Name="South Woodford" StopID="1000217" />
+        <Stop Name="Woodford" StopID="1000274" />
+        <Stop Name="Buckhurst Hill" StopID="1000033" />
+        <Stop Name="Loughton" StopID="1000140" />
+        <Stop Name="Debden" StopID="1000060" />
+        <Stop Name="Theydon Bois" StopID="1000232" />
+        <Stop Name="Epping" StopID="1000076" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851920000164790</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:00:07</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:00:07</StartTime>
+        <EndTime>2020-01-23T13:00:07</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:00:07</StartTime>
+        <EndTime>2020-01-23T13:00:07</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Wanstead" StopID="1000250" />
+        <Stop Name="Redbridge" StopID="1000190" />
+        <Stop Name="Gants Hill" StopID="1000085" />
+        <Stop Name="Newbury Park" StopID="1000154" />
+        <Stop Name="Barkingside" StopID="1000016" />
+        <Stop Name="Fairlop" StopID="1000079" />
+        <Stop Name="Hainault" StopID="1000095" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851930000164791</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:15:42</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:15:42</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:15:42</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Bethnal Green" StopID="1000022" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Stratford" StopID="1000226" />
+        <Stop Name="Leyton" StopID="1000136" />
+        <Stop Name="Leytonstone" StopID="1000137" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851940000164792</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:15:42</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:15:42</StartTime>
+        <EndTime>2020-01-23T13:15:42</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:15:42</StartTime>
+        <EndTime>2020-01-23T13:15:42</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Snaresbrook" StopID="1000207" />
+        <Stop Name="South Woodford" StopID="1000217" />
+        <Stop Name="Woodford" StopID="1000274" />
+        <Stop Name="Buckhurst Hill" StopID="1000033" />
+        <Stop Name="Loughton" StopID="1000140" />
+        <Stop Name="Debden" StopID="1000060" />
+        <Stop Name="Theydon Bois" StopID="1000232" />
+        <Stop Name="Epping" StopID="1000076" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851950000164793</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:15:42</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:15:42</StartTime>
+        <EndTime>2020-01-23T13:15:42</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:15:42</StartTime>
+        <EndTime>2020-01-23T13:15:42</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Eastbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Wanstead" StopID="1000250" />
+        <Stop Name="Redbridge" StopID="1000190" />
+        <Stop Name="Gants Hill" StopID="1000085" />
+        <Stop Name="Newbury Park" StopID="1000154" />
+        <Stop Name="Barkingside" StopID="1000016" />
+        <Stop Name="Fairlop" StopID="1000079" />
+        <Stop Name="Hainault" StopID="1000095" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851960000164794</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:28:33</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:28:33</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:28:33</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Snaresbrook" StopID="1000207" />
+        <Stop Name="South Woodford" StopID="1000217" />
+        <Stop Name="Woodford" StopID="1000274" />
+        <Stop Name="Buckhurst Hill" StopID="1000033" />
+        <Stop Name="Loughton" StopID="1000140" />
+        <Stop Name="Debden" StopID="1000060" />
+        <Stop Name="Theydon Bois" StopID="1000232" />
+        <Stop Name="Epping" StopID="1000076" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851970000164795</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:28:49</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:28:49</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:28:49</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Wanstead" StopID="1000250" />
+        <Stop Name="Redbridge" StopID="1000190" />
+        <Stop Name="Gants Hill" StopID="1000085" />
+        <Stop Name="Newbury Park" StopID="1000154" />
+        <Stop Name="Barkingside" StopID="1000016" />
+        <Stop Name="Fairlop" StopID="1000079" />
+        <Stop Name="Hainault" StopID="1000095" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851980000164796</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:29:07</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:29:07</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:29:07</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851990000164797</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:30:10</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:30:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:30:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Snaresbrook" StopID="1000207" />
+        <Stop Name="South Woodford" StopID="1000217" />
+        <Stop Name="Woodford" StopID="1000274" />
+        <Stop Name="Buckhurst Hill" StopID="1000033" />
+        <Stop Name="Loughton" StopID="1000140" />
+        <Stop Name="Debden" StopID="1000060" />
+        <Stop Name="Theydon Bois" StopID="1000232" />
+        <Stop Name="Epping" StopID="1000076" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4852000000164798</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:30:10</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:30:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:30:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Wanstead" StopID="1000250" />
+        <Stop Name="Redbridge" StopID="1000190" />
+        <Stop Name="Gants Hill" StopID="1000085" />
+        <Stop Name="Newbury Park" StopID="1000154" />
+        <Stop Name="Barkingside" StopID="1000016" />
+        <Stop Name="Fairlop" StopID="1000079" />
+        <Stop Name="Hainault" StopID="1000095" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4852010000164799</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:30:10</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:30:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:30:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4852020000164800</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:52:16</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:52:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:52:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="Westbound" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="White City" StopID="1000269" />
+        <Stop Name="Shepherd's Bush" StopID="1000203" />
+        <Stop Name="Holland Park" StopID="1000113" />
+        <Stop Name="Notting Hill Gate" StopID="1000167" />
+        <Stop Name="Queensway" StopID="1000187" />
+        <Stop Name="Lancaster Gate" StopID="1000133" />
+        <Stop Name="Marble Arch" StopID="1000144" />
+        <Stop Name="Bond Street" StopID="1000025" />
+        <Stop Name="Oxford Circus" StopID="1000173" />
+        <Stop Name="Tottenham Court Road" StopID="1000235" />
+        <Stop Name="Holborn" StopID="1000112" />
+        <Stop Name="Chancery Lane" StopID="1000044" />
+        <Stop Name="St. Paul's" StopID="1000225" />
+        <Stop Name="Bank" StopID="1000013" />
+        <Stop Name="Liverpool Street" StopID="1000138" />
+        <Stop Name="Bethnal Green" StopID="1000022" />
+        <Stop Name="Mile End" StopID="1000146" />
+        <Stop Name="Stratford" StopID="1000226" />
+        <Stop Name="Leyton" StopID="1000136" />
+        <Stop Name="Leytonstone" StopID="1000137" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4852030000164801</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:52:16</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:52:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:52:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Snaresbrook" StopID="1000207" />
+        <Stop Name="South Woodford" StopID="1000217" />
+        <Stop Name="Woodford" StopID="1000274" />
+        <Stop Name="Buckhurst Hill" StopID="1000033" />
+        <Stop Name="Loughton" StopID="1000140" />
+        <Stop Name="Debden" StopID="1000060" />
+        <Stop Name="Theydon Bois" StopID="1000232" />
+        <Stop Name="Epping" StopID="1000076" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4852040000164802</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T10:52:16</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T10:52:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T10:52:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Leytonstone" StopID="1000137" />
+        <Stop Name="Wanstead" StopID="1000250" />
+        <Stop Name="Redbridge" StopID="1000190" />
+        <Stop Name="Gants Hill" StopID="1000085" />
+        <Stop Name="Newbury Park" StopID="1000154" />
+        <Stop Name="Barkingside" StopID="1000016" />
+        <Stop Name="Fairlop" StopID="1000079" />
+        <Stop Name="Hainault" StopID="1000095" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="lineInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4852070000164803</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T11:36:39</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T11:36:39</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T11:36:39</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeBlocking" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4852080000164804</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T11:53:13</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T11:53:13</StartTime>
+        <EndTime>2020-01-23T14:53:13</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T11:53:13</StartTime>
+        <EndTime>2020-01-23T14:53:13</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="South Tottenham" StopID="1001264" />
+        <Stop Name="Blackhorse Road" StopID="1000024" />
+        <Stop Name="Walthamstow Queen's Road" StopID="1001308" />
+        <Stop Name="Leyton Midland Road" StopID="1001178" />
+        <Stop Name="Leytonstone High Road" StopID="1001179" />
+        <Stop Name="Wanstead Park" StopID="1001312" />
+        <Stop Name="Woodgrange Park" StopID="1001341" />
+        <Stop Name="Barking" StopID="1000015" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Part Suspended</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4852090000164805</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T11:53:13</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T11:53:13</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T11:53:13</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No service between Barking and South Tottenham. SEVERE DELAYS between South Tottenham and Gospel Oak due to derailed freight train at Walthamstow Queens Road. GOOD SERVICE on all other routes. </InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Gospel Oak Barking Line" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Gospel Oak" StopID="1001119" />
+        <Stop Name="Upper Holloway" StopID="1001302" />
+        <Stop Name="Crouch Hill" StopID="1001077" />
+        <Stop Name="Harringay Green Lanes" StopID="1001139" />
+        <Stop Name="South Tottenham" StopID="1001264" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Severe Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="routeInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4852120000164806</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T12:42:52</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T12:42:52</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T12:42:52</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText />
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Central" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="West Ruislip" StopID="1000267" />
+        <Stop Name="Ruislip Gardens" StopID="1000198" />
+        <Stop Name="South Ruislip" StopID="1000214" />
+        <Stop Name="Northolt" StopID="1000162" />
+        <Stop Name="Greenford" StopID="1000092" />
+        <Stop Name="Perivale" StopID="1000178" />
+        <Stop Name="Hanger Lane" StopID="1000099" />
+        <Stop Name="North Acton" StopID="1000157" />
+        <Stop Name="East Acton" StopID="1000065" />
+        <Stop Name="White City" StopID="1000269" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Minor Delays</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850900000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T14:43:21</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T14:43:21</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T14:43:21</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the Piccadilly and Victoria lines due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="King's Cross St. Pancras" StopID="1000129" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850980000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T15:07:29</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T15:07:29</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T15:07:29</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available between the footbridge and platform 3 (towards Paddington) due to a faulty lift. Call 0343 222 1234 if you need help planning your journey.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Taplow" StopID="90007118" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4850990000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T15:26:52</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T15:26:52</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T15:26:52</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Poplar due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Bow Church" StopID="1002019" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851000000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T15:43:15</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T15:43:15</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T15:43:15</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the eastbound platform due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Kensal Rise" StopID="1001161" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851080000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T18:00:15</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T18:00:15</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T18:00:15</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Part Closed - Trains non stopping on the Northbound platform only while we fix faulty station lighting.</InfoLinkText>
+      </InfoLink>
+      <ConcernedLines>
+        <Line Name="Bakerloo" Direction="" />
+      </ConcernedLines>
+      <ConcernedStops>
+        <Stop Name="Kenton" StopID="1000124" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Part Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopBlocking" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851090000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T18:00:16</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T18:00:16</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T18:00:16</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>Part Closed - Trains non stopping on the Northbound platform only while we fix faulty station lighting.</InfoLinkText>
+      </InfoLink>
+      <ConcernedLines />
+      <ConcernedStops>
+        <Stop Name="Kenton" StopID="1000124" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Part Closed</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851100000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T18:37:11</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T18:37:11</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T18:37:11</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available between the National Rail station and the westbound District and Circle line platform. For step free access to all other Underground platforms, use the entrance on Cardinal Place.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Victoria" StopID="1000248" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851180000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T22:25:05</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:25:05</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:25:05</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access via platform ramp is not available due to temporary unavailability of station staff. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="West Finchley" StopID="1000261" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851210000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:28:52</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:28:52</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:28:52</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Poplar due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="All Saints" StopID="1002003" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851220000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:48:27</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:48:27</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:48:27</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Canary Wharf due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Heron Quays" StopID="1002046" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851230000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-22T22:54:04</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:54:04</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:54:04</StartTime>
+        <EndTime>2020-01-23T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to platforms 2 &amp; 3. For destinations via Canada Water take a train from platform 1 and change at Highbury &amp; Islington. For destinations via Willesden Jn take a train from platform 3</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Canonbury" StopID="1001048" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851240000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:54:16</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:54:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:54:16</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Poplar due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Bow Church" StopID="1002019" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851250000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:54:25</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:54:25</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:54:25</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the eastbound platform due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Kensal Rise" StopID="1001161" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851260000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:54:37</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:54:37</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:54:37</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Canning Town due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Pontoon Dock" StopID="1002099" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851270000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:54:48</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:54:48</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:54:48</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to platform 3 (trains towards Reading) due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Maidenhead" StopID="90004788" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851280000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:55:01</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:55:01</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:55:01</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the London Overground due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Shepherd's Bush" StopID="1000203" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851290000000000</InfoId>
+      <SeqId>3</SeqId>
+      <CreationTime>2020-01-22T22:55:10</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-22T22:55:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-22T22:55:10</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available between the footbridge and platform 3 (towards Paddington) due to a faulty lift. Call 0343 222 1234 if you need help planning your journey.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Taplow" StopID="90007118" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851510000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T04:15:31</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:15:31</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:15:31</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Poplar due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="All Saints" StopID="1002003" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851520000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T04:15:37</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:15:37</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:15:37</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Poplar due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Bow Church" StopID="1002019" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851530000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T04:15:42</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:15:42</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:15:42</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Canary Wharf due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Heron Quays" StopID="1002046" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851540000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T04:15:48</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:15:48</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:15:48</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the eastbound platform due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Kensal Rise" StopID="1001161" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851550000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T04:15:53</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:15:53</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:15:53</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to platform 3 (trains towards Reading) due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Maidenhead" StopID="90004788" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851560000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T04:16:01</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:16:01</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:16:01</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available for trains towards Canning Town due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Pontoon Dock" StopID="1002099" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851570000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T04:16:08</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:16:08</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:16:08</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the London Overground due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Shepherd's Bush" StopID="1000203" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851580000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T04:16:15</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T04:16:15</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T04:16:15</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available between the footbridge and platform 3 (towards Paddington) due to a faulty lift. Call 0343 222 1234 if you need help planning your journey.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Taplow" StopID="90007118" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851730000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T06:46:00</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:46:00</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:46:00</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the northbound platform due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Edmonton Green" StopID="1001092" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851740000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T06:49:43</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:49:43</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:49:43</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the eastbound platform due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Camden Road" StopID="1001045" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851750000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T06:56:59</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T06:56:59</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T06:56:59</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to platforms 2 &amp; 3. For destinations via Canada Water take a train from platform 1 and change at Highbury &amp; Islington. For destinations via Willesden Jn take a train from platform 3</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Canonbury" StopID="1001048" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4851810000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T08:45:46</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T08:45:46</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T08:45:46</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to/from Stephenson Street due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Star Lane" StopID="1003005" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motDLR</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="true">
+      <InfoId>4851840000000000</InfoId>
+      <SeqId>2</SeqId>
+      <CreationTime>2020-01-23T09:47:39</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T09:47:39</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T09:47:39</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the Piccadilly line due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Green Park" StopID="1000093" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4852050000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T11:00:02</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T11:00:02</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T11:00:02</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the southbound platform while we fix a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="White Hart Lane" StopID="1001335" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4852060000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T11:14:06</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T11:14:06</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T11:14:06</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the eastbound Circle, Hammersmith &amp; City and Metropolitan lines due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need more information.
+</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Farringdon" StopID="1000080" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motNationalRail</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+    <ItdAdditionalTravelInformation Type="stopInfo" ProviderCode="Tfl" Deactivated="false">
+      <InfoId>4852130000000000</InfoId>
+      <SeqId>1</SeqId>
+      <CreationTime>2020-01-23T13:23:58</CreationTime>
+      <SourceType>web</SourceType>
+      <ValidityPeriod>
+        <StartTime>2020-01-23T13:23:58</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </ValidityPeriod>
+      <PublicationDuration>
+        <StartTime>2020-01-23T13:23:58</StartTime>
+        <EndTime>2020-01-24T01:29:00</EndTime>
+      </PublicationDuration>
+      <Progress>open</Progress>
+      <Verification>unknown</Verification>
+      <EventType>1</EventType>
+      <InfoLink>
+        <InfoLinkText>No Step Free Access - Step free access is not available to the Piccadilly line due to a faulty lift. Call our Travel Information Centre on 0343 222 1234 if you need help planning your journey.</InfoLinkText>
+      </InfoLink>
+      <ConcernedStops>
+        <Stop Name="Earl's Court" StopID="1000064" />
+      </ConcernedStops>
+      <GenericParams>
+        <ParamList>
+          <Param>
+            <Name>motTube</Name>
+            <Type>tflRTWB</Type>
+            <Value>1</Value>
+          </Param>
+          <Param>
+            <Name>group</Name>
+            <Type>tflRTWB</Type>
+            <Value>Station Info</Value>
+          </Param>
+        </ParamList>
+      </GenericParams>
+    </ItdAdditionalTravelInformation>
+  </ItdRequest>
+</SituationExchangeDelivery>
