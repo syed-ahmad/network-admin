@@ -48,7 +48,7 @@
         <Stop Name="West Ealing" StopID="1001327" />
         <Stop Name="Ealing Broadway" StopID="1000062" />
         <Stop Name="Acton Main Line" StopID="1001003" />
-        <Stop Name="Paddington" StopID="1000174" />
+        <Stop Name="Paddington" StopID="1001221" />
       </ConcernedStops>
       <GenericParams>
         <ParamList>
