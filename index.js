@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../main');
+var app = require('./src/main');
 var debug = require('debug')('network-admin:server');
 var http = require('http');
 
