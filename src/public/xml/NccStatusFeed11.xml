@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"? tag="syed-v1" >
+<?xml version="1.0" encoding="utf-8"?>
 <SituationExchangeDelivery>
-  <ResponseTimestamp>2020-01-23T14:35:25</ResponseTimestamp>
+  <ResponseTimestamp>2020-01-23T14:14:14</ResponseTimestamp>
   <TfLSevereDisruption>
     <Active>false</Active>
     <Reason>Severe Disruption</Reason>
