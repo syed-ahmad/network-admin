@@ -35,12 +35,12 @@
       <ConcernedStops>
         <Stop Name="Reading" StopID="1000972" />
         <Stop Name="Twyford" StopID="1000969" />
-        <Stop Name="Maidenhead" StopID="90004788" />
-        <Stop Name="Taplow" StopID="90007118" />
+        <Stop Name="Maidenhead" StopID="1000964" />
+        <Stop Name="Taplow" StopID="1000960" />
         <Stop Name="Burnham" StopID="1000860" />
-        <Stop Name="Slough" StopID="1001551" />
+        <Stop Name="Slough" StopID="1000951" />
         <Stop Name="Langley" StopID="1001550" />
-        <Stop Name="Iver" StopID="1016047" />
+        <Stop Name="Iver" StopID="1000955" />
         <Stop Name="West Drayton" StopID="1001325" />
         <Stop Name="Hayes &amp; Harlington" StopID="1001144" />
         <Stop Name="Southall" StopID="1001255" />
